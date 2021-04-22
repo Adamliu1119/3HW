@@ -315,7 +315,7 @@ namespace _3HW {
             }
             i_Num = Convert.ToInt32(lb_Result.Text);
             mt_SetInfo();
-            }
+        }
 
         protected void bt_4_Click(object sender, EventArgs e) {
             if (Convert.ToInt32(lb_Result.Text) == 0)
@@ -328,7 +328,7 @@ namespace _3HW {
             }
             i_Num = Convert.ToInt32(lb_Result.Text);
             mt_SetInfo();
-           }
+        }
 
         protected void bt_5_Click(object sender, EventArgs e) {
             if (Convert.ToInt32(lb_Result.Text) == 0)
@@ -341,7 +341,7 @@ namespace _3HW {
             }
             i_Num = Convert.ToInt32(lb_Result.Text);
             mt_SetInfo();
-            }
+        }
 
         protected void bt_6_Click(object sender, EventArgs e) {
             if (Convert.ToInt32(lb_Result.Text) == 0)
@@ -354,7 +354,7 @@ namespace _3HW {
             }
             i_Num = Convert.ToInt32(lb_Result.Text);
             mt_SetInfo();
-            }
+        }
 
         protected void bt_7_Click(object sender, EventArgs e) {
             if (Convert.ToInt32(lb_Result.Text) == 0)
